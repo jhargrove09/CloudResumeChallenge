@@ -19,39 +19,115 @@
         <h3>Job Experience</h3>
         <dl>
           <dt>Dealer On</dt>
-          <dd>Case Manager</dd>
-          <dd>Support associate</dd>
+            <dd>Inventory Support Team Lead - 06/2023-Present</dd>
+            <dd>•	Collaborate with the Development teams to find and research bugs within the system
+              <br>
+              •	Leads team of seven members, overseeing timely resolution of cases for department
+              <br>
+              •	Serves as the primary liaison for team escalations and case inquiries
+              </dd>
+            <dd>Case Manager - 10/2022-06/2023</dd>
+            <dd>•	Assist with training and onboarding new employees, shadowing, and quality assurance
+              <br>
+              •	Analyze the progression of tickets escalated to design and development departments
+              <br>
+              •	Design and create custom pages by embedding various graphics, videos, banners using HTML and CSS
+              </dd>
+            <dd>Support Team Lead - 06/2022-10/2022</dd>
+            <dd>•	Train and mentor team on updating, prioritizing, and triaging cases, while sharing best practices
+              <br>
+              •	Guided a team of nine members, focusing on performance metrics, objectives, and fostering motivation to drive enhanced outcomes
+              </dd>
+            <dd>Customer Support Specialist - 10/2021-06/2022</dd>
+            <dd>•	Collaborate with third-party vendors to perform updates for scripts and plugins.
+              <br>
+              •	Provide email and phone SaaS support by managing, updating, and troubleshooting websites issues
+              <br>
+              •	Develop project estimates based on milestones for resolution and the scope of work involved
+              <br>
+              •	Enhance ticket completion times, quality, and customer satisfaction by delivering exceptional customer service
+              </dd>
           <dt>Louisiana State Legislature</dt>
-          <dd>Help Desk</dd>
+            <dd>Help Desk Specialist - 02/2019-10/2021</dd>
+            <dd>•	Maintained and updated groups and user profiles using Active Directory
+              <br>
+              •	Used advanced troubleshooting techniques to resolve hardware, software, and networking issues
+              <br>
+              •	Created and designed high quality how-do documents and training materials for users and staff 
+              <br>
+              •	Worked in coordination with users deliver, optimize, and reconfigure loaner equipment base on SOP
+              <br>
+              •	Provided training sessions pertaining to ethical business standards, system knowledge as well as privacy and security protocols
+              </dd>
+          <dt>Next Level Solutions</dt>
+            <dd>PC Technician - 04/2018-12/2018</dd>
+            <dd>•	Cloned, recycled, and resold workstations while maintaining and updated inventory records
+              <br>
+              •	Administered blog by regularly creating and managing its content
+              <br>
+              •	Provided regular backups for user data and executed imports as necessary
+              <br>
+              •	Conducted troubleshooting, removal, and reimaging of malware and virus issues
+              <br>
+              •	Performed hardware maintenance, identified vulnerabilities as well as install and upgrade components
+              <br>
+              •	Observed, categorized, and promptly responded to requests received through case management
+              <br>
+              •	Managed and set up user accounts, added to domain and define user and/or group permissions
+              </dd>
+           <dt>Pro Unlimited - Electronic Arts</dt>
+            <dd>Quality Assurance Analyst - 02/2018-10/2018</dd> 
+            <dd>•	Conducted testing by identifying bugs through troubleshooting and testing
+              <br>
+              •	Checked for irregularities and researched past software variances from year to year
+              <br>              
+              •	Tested hardware for compatibility between new and existing software for future implementation
+              <br>
+              •	Created comprehensive and concise bug reports to communicate clear and detailed findings to developers and provided resolution for repair
+              </dd>
           </dl>
 
         <h3>Software Proficiencies</h3>
         <dl>
             <dt>Technology</dt>
-            <dd>Active Dicrectory</dd>
-            <dd>Powershell</dd>
+            <dd>Active Directory, GSuite, Office365, Windows Server ‘16, PowerShell, Bash, Git</dd>
             <dt>Operation Applications</dt>
-            <dd>AWS, EC2, S3</dd>
+            <dd>Amazon Web Services; EC2, IAM, S3, VPC</dd>
             <dt>Remote and CRM</dt>
+              <dd>VMWare, Remote Desktop, LogMeIn, TeamViewer, Salesforce, ConnectWise</dd>
             <dt>Collaboration Tools</dt>
+              <dd>Slack, Microsoft Teams, Zoom, Atlassian/Jira, Trello, GitHub</dd>
             <dt>Documentation Software</dt>
+              <dd>WordPress, MediaWiki, Confluence, SharePoint</dd>
         </dl>
 
         <h3>Education</h3>
         <dl>
             <dt>Professional Certifications</dt>
-            <dd>AWS Certified Developer</dd>
+            <dd>•	Google IT Support Professional</dd> 
+            <dd>•	CompTIA A+ Certification</dd> 
+            <dd>•	Linux Professional Institute (LPI) Linux Essentials</dd> 
+            <dd>•	AWS Certified Cloud Practitioner</dd> 
+            <dd>•	AWS Certified Developer Associate</dd> 
+              
+            <br>
             <dt>Education</dt>
-            <dd>Bachelor or Science Cloud Computing</dd>
+            <dd>Bachelor or Science Cloud Computing - Western Govenors Univiersity (2025)</dd>
         </dl>
         
         <h3>Technical Acievements</h3>
         <dl>
             <dt>Projects</dt>
-            <dd>Articles</dd>
+            <dd><a href = "https://www.medium.com/jacqueline.hargrove">•	Published How to Articles:</a>
+              <dd>•	Creating a Custom Website Using AWS, Apache, Linux, HTML/CSS</dd>
+              <dd>•	The Importance of Auto-Scaling Groups and Load Balancers</dd>
+              <dd>•	The Basics of GitHub</dd>
             <dt>Professional Accomplishments</dt>
-            <dd>State of Louisiana</dd>
-            <dd>Tri Delta Soroity LSC Campus</dd>
+            <dd>•	State of Louisiana Windows 10 Migration, 2019-2021</dd>
+            <dd>•	First point of contact for State Representatives, Senators, and staff during project</dd>
+              <dd>•	Migrated Members and District Offices to new Windows 10 PCs, ensured all proprietary information and data was transferred securely, tracked hardware changes in database</dd>
+            <dd>•	Tri-Delta Sorority House, LSU Campus & Budget Inn & Suites (Next Level Solutions, 2018)</dd>
+            <dd>•	Facilitated major LAN/WAN projects: Designed, installed, and managed wired/wireless infrastructure using switches, routers, access points, and mesh networking</dd>
         </dl>
     </main>
   </body>
